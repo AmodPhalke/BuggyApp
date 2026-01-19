@@ -1,0 +1,6 @@
+@BuggyApp_HostAddress = http://localhost:5117
+
+GET {{BuggyApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
